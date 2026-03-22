@@ -1,4 +1,4 @@
-launch your stratum first in a terminal:
+launch the stratum first in a terminal: (https://github.com/dutagoproject/stratum)
 
 ./duta-stratumd   --bind 0.0.0.0:12001   --daemon http://127.0.0.1:19085/   --share-bits 28   --network mainnet
 
