@@ -5,3 +5,7 @@ launch your stratum first in a terminal:
 start the miner in a other terminal:
 
 ./duta-stratum-miner --host IP_DU_STRATUM --port 12001 --address ADDRESS --gpu
+
+If error: "error while loading shared libraries: libcudart.so.12: cannot open shared": 
+
+sudo apt install libcudart12
