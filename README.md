@@ -9,3 +9,5 @@ start the miner in a other terminal:
 If error: "error while loading shared libraries: libcudart.so.12: cannot open shared": 
 
 sudo apt install libcudart12
+
+0% fees
