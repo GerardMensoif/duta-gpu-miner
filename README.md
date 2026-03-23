@@ -10,4 +10,6 @@ If error: "error while loading shared libraries: libcudart.so.12: cannot open sh
 
 sudo apt install libcudart12
 
+You can run multiple miner on the same stratum
+
 0% fees
